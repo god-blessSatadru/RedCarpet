@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Red Carpet</string>
+    <string name="address">Address: 6, Jessore Rd, Ward Number 23, Kolkata, West Bengal 700081</string>
+    <string name="name">Red Carpet</string>
+    <string name="description">A Quality House Of Indian And Chinese Delicacies </string>
+    <string name="phone">0091-033-25126969, +91 9874874119 </string>
+    <string name="working_days">Monday to Sunday </string>
+    <string name="timing">11AM to 11PM </string>
+
+</resources>
